@@ -18,5 +18,8 @@ Get data from the canvas (which has your desired image on it) like this `canvas.
 
 You can find a great example in `convert.js`. You can see a demo here. And there are some screenshots too
 
+![Black and white watermelons](https://raw.githubusercontent.com/neurogame/dither-js/master/screenshots/watermelon.png)
+![Black and white portal cube](https://raw.githubusercontent.com/neurogame/dither-js/master/screenshots/portal_cube.png)
+
 ## Developer's note
 I made this in two days, and I have only been doing Javascript for 2 weeks maybe. I hope you enjoy, and please correct me and help me if you see anything that needs improvement in my code! Enjoy! :)
